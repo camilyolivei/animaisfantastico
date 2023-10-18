@@ -1,5 +1,5 @@
+![PRÉVIA-2](https://github.com/camilyolivei/animaisfantastico/assets/120147200/c24b57f4-f277-487c-ae83-47673965db4f)
 
-![screen](https://github.com/camilyolivei/animaisfantastico/assets/120147200/b4f94373-3984-422e-bf44-fbd7de8bd9ed)
 
 - [Visualizar site completo](https://camilyolivei.github.io/animaisfantastico/)<br/>
 
